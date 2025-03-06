@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner_git.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Hello World! I'm Van, an Embedded Software Engineer:
 👨🏼‍🎓 Studying Electrical Engineering at International University, VNU-HCM <br> ⚙️ Skilled in C/C++, Microcontrollers (STM32, ESP32, Arduino), RTOS, and Communication Protocols. <br> 🔍 Always learning & building innovative embedded systems!
